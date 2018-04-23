@@ -1,0 +1,6 @@
+c:\users\khan\documents\visual studio 2013\Projects\AdoDotNetTest\AdoDotNetTest\bin\Debug\AdoDotNetTest.exe.config
+c:\users\khan\documents\visual studio 2013\Projects\AdoDotNetTest\AdoDotNetTest\bin\Debug\AdoDotNetTest.exe
+c:\users\khan\documents\visual studio 2013\Projects\AdoDotNetTest\AdoDotNetTest\bin\Debug\AdoDotNetTest.pdb
+c:\users\khan\documents\visual studio 2013\Projects\AdoDotNetTest\AdoDotNetTest\obj\Debug\AdoDotNetTest.csprojResolveAssemblyReference.cache
+c:\users\khan\documents\visual studio 2013\Projects\AdoDotNetTest\AdoDotNetTest\obj\Debug\AdoDotNetTest.exe
+c:\users\khan\documents\visual studio 2013\Projects\AdoDotNetTest\AdoDotNetTest\obj\Debug\AdoDotNetTest.pdb
