@@ -40,12 +40,12 @@ namespace AdoDotNetTest
         }
         public static string GetConnectionString()
         {
-            //string databaseName = @"10.96.1.2\RSFERP_UAT";
+           
             //return "Data Source=" + databaseName + ";Initial Catalog=RASolarERP; User ID=rsfit;Password=rsfit1234; providerName=System.Data.SqlClient;Persist Security Info=True;";
-            string strRASolarERPServerName = "10.96.1.2\\RSFERP_UAT";//System.Configuration.ConfigurationManager.AppSettings["ServerName"];
-            string strRASolarERPDatabase = "RASolarERP";//System.Configuration.ConfigurationManager.AppSettings["Database"];
-            string strRASolarERPUserName = "rsfit";//System.Configuration.ConfigurationManager.AppSettings["UserName"];
-            string strRASolarERPPassword = "rsfit1234";//System.Configuration.ConfigurationManager.AppSettings["Password"];
+            string strRASolarERPServerName = "";//System.Configuration.ConfigurationManager.AppSettings["ServerName"];
+            string strRASolarERPDatabase = "";//System.Configuration.ConfigurationManager.AppSettings["Database"];
+            string strRASolarERPUserName = "";//System.Configuration.ConfigurationManager.AppSettings["UserName"];
+            string strRASolarERPPassword = "";//System.Configuration.ConfigurationManager.AppSettings["Password"];
 
             string cStrConnectionStringToRSFERP = "Data Source=" + strRASolarERPServerName + ";Initial Catalog=" + strRASolarERPDatabase + ";Persist Security Info=True;User ID=" + strRASolarERPUserName + ";Password=" + strRASolarERPPassword;
             return cStrConnectionStringToRSFERP;
